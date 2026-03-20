@@ -1,8 +1,6 @@
 ---
-​---
 name: biomedical_idea_to_abstract
 description: Multi-agent workflow for researching, drafting, humanizing, and reviewing biomedical research abstracts from keywords alone.
-​---
 ---
 
 ## When to run

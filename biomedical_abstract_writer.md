@@ -1,8 +1,6 @@
 ---
-​---
 name: biomedical_abstract_writer
 description: Multi-agent workflow for drafting, humanizing, and reviewing biomedical research abstracts using provided methodologies and results.
-​---
 ---
 
 ## When to run
